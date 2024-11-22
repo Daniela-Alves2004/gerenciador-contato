@@ -1,4 +1,3 @@
-Claro! Vou melhorar o texto e formatá-lo em um estilo de README para facilitar a compreensão e documentação.
 
 ---
 
